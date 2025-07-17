@@ -1,0 +1,16 @@
+.DS_Store
+**/.DS_Store
+*.txt
+*.csv
+*.db
+*.json
+*.xlsx
+*.lnk
+/__pycache__/
+/.pytest_cache/
+/.ipynb_checkpoints/
+**/old/*/
+**/src/*/
+**/test/*/
+/.venv/
+!requirements.txt
